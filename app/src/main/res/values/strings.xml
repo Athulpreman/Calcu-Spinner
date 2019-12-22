@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calcuSpinner</string>
+    <string-array name="opera">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
